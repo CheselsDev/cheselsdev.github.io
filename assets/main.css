@@ -51,7 +51,7 @@ header{
   background-color: #1b1b1b3f;
   width: 98%;
   margin-left: 0.75%;
-  backdrop-filter: blur(30px);
+  backdrop-filter: blur(8px);
   border-radius: 10px;
   border: 1px solid transparent;
   border-color: #ada66669;
@@ -59,7 +59,7 @@ header{
   justify-content:space-between;
   align-items: center;
   transition: 0.25s;
-  -webkit-backdrop-filter: blur(30px);
+  -webkit-backdrop-filter: blur(8px);
 }
 
 header .logo{
